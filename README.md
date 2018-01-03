@@ -4,7 +4,7 @@
 * Python 3+
 * tkinter Python3 teek
 
-## Kasutamiseks:
+## Kasutamiseks
 1. Käivita käsurealt vastaval aadressilt, kus script.py asub, kasutades käsklust: python script.py
 2. Sisesta korrektsed koordinaadid ja pildi mõõtmed
 3. Ava link
